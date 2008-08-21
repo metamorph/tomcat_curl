@@ -1,0 +1,3 @@
+Experimental interface to Tomcat's management interface.
+
+Uses Curl to do the actual HTTP work to allow using the lib in a Capistrano setup.
